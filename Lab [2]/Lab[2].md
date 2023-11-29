@@ -37,5 +37,5 @@ myls –option2option1
 #### a. It asks the user about his/her logname.
 #### b. It print full info about files and directories in his/her home directory
 #### c. Copy his/her files and directories as much as you can in /tmp directory.
-![Q8](./Pics/8.png)
 #### d. Gets his current processes status.
+![Q8](./Pics/8.png)
