@@ -1,0 +1,14 @@
+1) 
+  touch script.sh
+  PATH=$PATH:/home/omar
+  chmod +x script.sh
+  
+2)
+  touch s1.sh
+  touch s2.sh
+  chmod +x s1.sh s2.sh
+
+3)
+  touch mycp.sh
+  
+  
